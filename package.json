@@ -1,5 +1,5 @@
 {
-  "name": "react-storybook-starter",
+  "name": "leetcode-storybook-starter",
   "type": "module",
   "packageManager": "yarn@3.2.0",
   "devDependencies": {

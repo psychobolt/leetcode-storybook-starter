@@ -1,3 +1,5 @@
+![main_logo](https://raw.githubusercontent.com/psychobolt/leetcode-storybook/master/logo.png)
+
 # LeetCode Storybook Starter
 
 [![Main workflow](https://github.com/psychobolt/leetcode-storybook-starter/actions/workflows/main.yml/badge.svg)](https://github.com/psychobolt/leetcode-storybook-starter/actions/workflows/main.yml)
