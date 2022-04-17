@@ -1,9 +1,9 @@
-# React Storybook Starter
+# LeetCode Storybook Starter
 
-[![Main workflow](https://github.com/psychobolt/react-storybook-starter/actions/workflows/main.yml/badge.svg)](https://github.com/psychobolt/react-storybook-starter/actions/workflows/main.yml)
-[![codecov](https://codecov.io/gh/psychobolt/react-storybook-starter/branch/main/graph/badge.svg)](https://codecov.io/gh/psychobolt/react-storybook-starter/tree/main/src)
+[![Main workflow](https://github.com/psychobolt/leetcode-storybook-starter/actions/workflows/main.yml/badge.svg)](https://github.com/psychobolt/leetcode-storybook-starter/actions/workflows/main.yml)
+[![codecov](https://codecov.io/gh/psychobolt/leetcode-storybook-starter/branch/main/graph/badge.svg)](https://codecov.io/gh/psychobolt/leetcode-storybook-starter/tree/main/src)
 
-Boilerplate for building a [React](https://reactjs.org/) [Storybook](https://storybook.js.org/) project
+A starter sandbox for solving [LeetCode](https://leetcode.com/) problems in Storybook.
 
 ## Included
 
