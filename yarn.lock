@@ -12030,6 +12030,92 @@ __metadata:
   languageName: node
   linkType: hard
 
+"leetcode-storybook-starter@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "leetcode-storybook-starter@workspace:."
+  dependencies:
+    "@babel/core": 7.17.9
+    "@babel/eslint-parser": 7.17.0
+    "@babel/plugin-proposal-class-properties": 7.16.7
+    "@babel/plugin-proposal-decorators": 7.17.9
+    "@babel/plugin-proposal-export-default-from": 7.16.7
+    "@babel/plugin-proposal-nullish-coalescing-operator": 7.16.7
+    "@babel/plugin-proposal-object-rest-spread": 7.17.3
+    "@babel/plugin-proposal-optional-chaining": 7.16.7
+    "@babel/plugin-proposal-private-methods": 7.16.11
+    "@babel/plugin-proposal-private-property-in-object": 7.16.7
+    "@babel/plugin-syntax-dynamic-import": 7.8.3
+    "@babel/plugin-syntax-flow": 7.16.7
+    "@babel/plugin-transform-arrow-functions": 7.16.7
+    "@babel/plugin-transform-block-scoping": 7.16.7
+    "@babel/plugin-transform-classes": 7.16.7
+    "@babel/plugin-transform-destructuring": 7.17.7
+    "@babel/plugin-transform-for-of": 7.16.7
+    "@babel/plugin-transform-parameters": 7.16.7
+    "@babel/plugin-transform-react-jsx": 7.17.3
+    "@babel/plugin-transform-shorthand-properties": 7.16.7
+    "@babel/plugin-transform-spread": 7.16.7
+    "@babel/preset-env": 7.16.11
+    "@babel/preset-flow": 7.16.7
+    "@babel/preset-react": 7.16.7
+    "@mdx-js/react": 1.6.22
+    "@storybook/addon-actions": 6.5.0-alpha.62
+    "@storybook/addon-docs": 6.5.0-alpha.62
+    "@storybook/addon-essentials": 6.5.0-alpha.62
+    "@storybook/addon-interactions": 6.5.0-alpha.62
+    "@storybook/addon-links": 6.5.0-alpha.62
+    "@storybook/addons": 6.5.0-alpha.62
+    "@storybook/builder-webpack5": 6.5.0-alpha.62
+    "@storybook/client-api": 6.5.0-alpha.62
+    "@storybook/jest": 0.0.10
+    "@storybook/manager-webpack5": 6.5.0-alpha.62
+    "@storybook/preview-web": 6.5.0-alpha.62
+    "@storybook/react": 6.5.0-alpha.62
+    "@storybook/testing-library": 0.0.9
+    "@storybook/testing-react": 1.2.4
+    "@testing-library/react": 13.1.1
+    "@yarnpkg/sdks": 3.0.0-rc.2
+    app-root-path: 3.0.0
+    babel-loader: 8.2.4
+    babel-plugin-macros: 3.1.0
+    babel-plugin-module-resolver: 4.1.0
+    babel-plugin-named-exports-order: 0.0.2
+    babel-plugin-polyfill-corejs3: 0.5.2
+    concurrently: 7.1.0
+    core-js: 3.22.0
+    cross-env: 7.0.3
+    cross-spawn: 7.0.3
+    eslint: 8.13.0
+    eslint-config-airbnb: 19.0.4
+    eslint-plugin-flowtype: 8.0.3
+    eslint-plugin-import: 2.26.0
+    eslint-plugin-jest: 26.1.4
+    eslint-plugin-jsx-a11y: 6.5.1
+    eslint-plugin-mdx: 1.17.0
+    eslint-plugin-react: 7.29.4
+    eslint-plugin-react-hooks: 4.4.0
+    eslint-plugin-storybook: 0.5.10
+    flow-bin: 0.176.2
+    flow-typed: 3.7.0
+    http-server: 14.1.0
+    jest: 27.5.1
+    jest-specific-snapshot: 5.0.0
+    react: 18.0.0
+    react-dom: 18.0.0
+    react-is: 18.0.0
+    require-from-string: 2.0.2
+    rimraf: 3.0.2
+    slash: 4.0.0
+    styled-components: 5.3.5
+    stylelint: 14.7.0
+    stylelint-config-standard-scss: 3.0.0
+    stylelint-config-styled-components: 0.1.1
+    stylelint-processor-styled-components: "https://github.com/psychobolt/stylelint-processor-styled-components"
+    symlink-dir: 5.0.1
+    webpack: 5.72.0
+  languageName: unknown
+  linkType: soft
+
 "leven@npm:^3.1.0":
   version: 3.1.0
   resolution: "leven@npm:3.1.0"
@@ -14707,92 +14793,6 @@ __metadata:
   checksum: 7be673f5e72104be01e6ab274516bdb932efd93305243170690f6560e3bd1035dd1df3d3c9ce1e0f452638a2529f43a1e77dcf0934fc8031c4783da657be13ca
   languageName: node
   linkType: hard
-
-"react-storybook-starter@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "react-storybook-starter@workspace:."
-  dependencies:
-    "@babel/core": 7.17.9
-    "@babel/eslint-parser": 7.17.0
-    "@babel/plugin-proposal-class-properties": 7.16.7
-    "@babel/plugin-proposal-decorators": 7.17.9
-    "@babel/plugin-proposal-export-default-from": 7.16.7
-    "@babel/plugin-proposal-nullish-coalescing-operator": 7.16.7
-    "@babel/plugin-proposal-object-rest-spread": 7.17.3
-    "@babel/plugin-proposal-optional-chaining": 7.16.7
-    "@babel/plugin-proposal-private-methods": 7.16.11
-    "@babel/plugin-proposal-private-property-in-object": 7.16.7
-    "@babel/plugin-syntax-dynamic-import": 7.8.3
-    "@babel/plugin-syntax-flow": 7.16.7
-    "@babel/plugin-transform-arrow-functions": 7.16.7
-    "@babel/plugin-transform-block-scoping": 7.16.7
-    "@babel/plugin-transform-classes": 7.16.7
-    "@babel/plugin-transform-destructuring": 7.17.7
-    "@babel/plugin-transform-for-of": 7.16.7
-    "@babel/plugin-transform-parameters": 7.16.7
-    "@babel/plugin-transform-react-jsx": 7.17.3
-    "@babel/plugin-transform-shorthand-properties": 7.16.7
-    "@babel/plugin-transform-spread": 7.16.7
-    "@babel/preset-env": 7.16.11
-    "@babel/preset-flow": 7.16.7
-    "@babel/preset-react": 7.16.7
-    "@mdx-js/react": 1.6.22
-    "@storybook/addon-actions": 6.5.0-alpha.62
-    "@storybook/addon-docs": 6.5.0-alpha.62
-    "@storybook/addon-essentials": 6.5.0-alpha.62
-    "@storybook/addon-interactions": 6.5.0-alpha.62
-    "@storybook/addon-links": 6.5.0-alpha.62
-    "@storybook/addons": 6.5.0-alpha.62
-    "@storybook/builder-webpack5": 6.5.0-alpha.62
-    "@storybook/client-api": 6.5.0-alpha.62
-    "@storybook/jest": 0.0.10
-    "@storybook/manager-webpack5": 6.5.0-alpha.62
-    "@storybook/preview-web": 6.5.0-alpha.62
-    "@storybook/react": 6.5.0-alpha.62
-    "@storybook/testing-library": 0.0.9
-    "@storybook/testing-react": 1.2.4
-    "@testing-library/react": 13.1.1
-    "@yarnpkg/sdks": 3.0.0-rc.2
-    app-root-path: 3.0.0
-    babel-loader: 8.2.4
-    babel-plugin-macros: 3.1.0
-    babel-plugin-module-resolver: 4.1.0
-    babel-plugin-named-exports-order: 0.0.2
-    babel-plugin-polyfill-corejs3: 0.5.2
-    concurrently: 7.1.0
-    core-js: 3.22.0
-    cross-env: 7.0.3
-    cross-spawn: 7.0.3
-    eslint: 8.13.0
-    eslint-config-airbnb: 19.0.4
-    eslint-plugin-flowtype: 8.0.3
-    eslint-plugin-import: 2.26.0
-    eslint-plugin-jest: 26.1.4
-    eslint-plugin-jsx-a11y: 6.5.1
-    eslint-plugin-mdx: 1.17.0
-    eslint-plugin-react: 7.29.4
-    eslint-plugin-react-hooks: 4.4.0
-    eslint-plugin-storybook: 0.5.10
-    flow-bin: 0.176.2
-    flow-typed: 3.7.0
-    http-server: 14.1.0
-    jest: 27.5.1
-    jest-specific-snapshot: 5.0.0
-    react: 18.0.0
-    react-dom: 18.0.0
-    react-is: 18.0.0
-    require-from-string: 2.0.2
-    rimraf: 3.0.2
-    slash: 4.0.0
-    styled-components: 5.3.5
-    stylelint: 14.7.0
-    stylelint-config-standard-scss: 3.0.0
-    stylelint-config-styled-components: 0.1.1
-    stylelint-processor-styled-components: "https://github.com/psychobolt/stylelint-processor-styled-components"
-    symlink-dir: 5.0.1
-    webpack: 5.72.0
-  languageName: unknown
-  linkType: soft
 
 "react@npm:*, react@npm:18.0.0":
   version: 18.0.0
