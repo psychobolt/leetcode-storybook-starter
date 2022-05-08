@@ -5,10 +5,12 @@
 [![Main workflow](https://github.com/psychobolt/leetcode-storybook-starter/actions/workflows/main.yml/badge.svg)](https://github.com/psychobolt/leetcode-storybook-starter/actions/workflows/main.yml)
 [![codecov](https://codecov.io/gh/psychobolt/leetcode-storybook-starter/branch/main/graph/badge.svg)](https://codecov.io/gh/psychobolt/leetcode-storybook-starter/tree/main/src)
 
-A starter sandbox for solving [LeetCode](https://leetcode.com/) problems in Storybook.
+A starter sandbox for solving [LeetCode](https://leetcode.com/) problems in [Storybook](https://storybook.js.org/)
 
 ## Included
 
+- Login to your user account with [Leetcode CLI](https://www.npmjs.com/package/vsc-leetcode-cli)
+- Scaffold Leetcode problems with [Yeoman](https://yeoman.io/) and [generator-leetcode-storybook](https://www.npmjs.com/package/generator-leetcode-storybook)
 - Yarn [Plug'n'Play](https://yarnpkg.com/features/pnp) support
 - [ES Module](https://nodejs.org/api/esm.html) system support
 - [styled-components](https://www.styled-components.com/) with [default](https://www.styled-components.com/docs/tooling#stylelint) [stylelint](https://stylelint.io/) support

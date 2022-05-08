@@ -3,8 +3,7 @@ const webpackConfig = require('./webpack.config.cjs');
 module.exports = {
   stories: [
     '../src/README.mdx',
-    '../src/**/*.stories.mdx',
-    '../src/**/*.stories.js',
+    '../src/**/*.(problem|solution).mdx',
   ],
   addons: [
     '@storybook/addon-links',
@@ -32,7 +31,7 @@ module.exports = {
             return {};
           }
           if (exclude && exclude.test('.stories.mdx')) {
-            return { ...rule, test: /\.md$/ };
+            return { ...rule, test: /\.md$/, resourceQuery: { not: [/raw/] } };
           }
           if (test.test('.stories.mdx')) {
             return { ...rule, test: /\.mdx$/ };

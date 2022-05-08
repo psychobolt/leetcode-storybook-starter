@@ -14,6 +14,8 @@ If you cloned/forked this repo, the CI will require you to [configure GitHub sec
 ```sh
 yarn start # Run storybook
 yarn start-static # Build storybook and serve the dist
+yarn leetcode # Leetcode CLI
+yarn leetcode-problem # Scaffold leetcode problems
 ```
 
 ### Testing
