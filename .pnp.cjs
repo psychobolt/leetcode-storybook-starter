@@ -76,7 +76,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@storybook/testing-library", "npm:0.0.11"],\
             ["@storybook/testing-react", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:1.2.4"],\
             ["@storybook/theming", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:6.5.0-alpha.62"],\
-            ["@testing-library/react", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:13.1.1"],\
+            ["@testing-library/react", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:13.2.0"],\
             ["@yarnpkg/sdks", "npm:3.0.0-rc.4"],\
             ["app-root-path", "npm:3.0.0"],\
             ["babel-loader", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:8.2.5"],\
@@ -7869,17 +7869,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@testing-library/react", [\
-        ["npm:13.1.1", {\
-          "packageLocation": "./.yarn/cache/@testing-library-react-npm-13.1.1-c5e9cec627-9a0043be56.zip/node_modules/@testing-library/react/",\
+        ["npm:13.2.0", {\
+          "packageLocation": "./.yarn/cache/@testing-library-react-npm-13.2.0-a1a70b5e81-29f4a97c93.zip/node_modules/@testing-library/react/",\
           "packageDependencies": [\
-            ["@testing-library/react", "npm:13.1.1"]\
+            ["@testing-library/react", "npm:13.2.0"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:13.1.1", {\
-          "packageLocation": "./.yarn/__virtual__/@testing-library-react-virtual-8952112306/0/cache/@testing-library-react-npm-13.1.1-c5e9cec627-9a0043be56.zip/node_modules/@testing-library/react/",\
+        ["virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:13.2.0", {\
+          "packageLocation": "./.yarn/__virtual__/@testing-library-react-virtual-bbf3c140a2/0/cache/@testing-library-react-npm-13.2.0-a1a70b5e81-29f4a97c93.zip/node_modules/@testing-library/react/",\
           "packageDependencies": [\
-            ["@testing-library/react", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:13.1.1"],\
+            ["@testing-library/react", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:13.2.0"],\
             ["@babel/runtime", "npm:7.17.9"],\
             ["@testing-library/dom", "npm:8.13.0"],\
             ["@types/react", null],\
@@ -19774,7 +19774,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@storybook/testing-library", "npm:0.0.11"],\
             ["@storybook/testing-react", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:1.2.4"],\
             ["@storybook/theming", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:6.5.0-alpha.62"],\
-            ["@testing-library/react", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:13.1.1"],\
+            ["@testing-library/react", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:13.2.0"],\
             ["@yarnpkg/sdks", "npm:3.0.0-rc.4"],\
             ["app-root-path", "npm:3.0.0"],\
             ["babel-loader", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:8.2.5"],\
