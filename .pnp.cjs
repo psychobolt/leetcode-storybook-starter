@@ -102,7 +102,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["execa", "npm:6.1.0"],\
             ["flow-bin", "npm:0.176.2"],\
             ["flow-typed", "npm:3.7.0"],\
-            ["generator-leetcode-storybook", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.0.2"],\
+            ["generator-leetcode-storybook", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.0.3"],\
             ["http-server", "npm:14.1.0"],\
             ["jest", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:27.5.1"],\
             ["jest-specific-snapshot", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:5.0.0"],\
@@ -16026,17 +16026,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["generator-leetcode-storybook", [\
-        ["npm:0.0.2", {\
-          "packageLocation": "./.yarn/cache/generator-leetcode-storybook-npm-0.0.2-0ffbb7949a-1e09d02a36.zip/node_modules/generator-leetcode-storybook/",\
+        ["npm:0.0.3", {\
+          "packageLocation": "./.yarn/cache/generator-leetcode-storybook-npm-0.0.3-93bdb98695-7285cb7f68.zip/node_modules/generator-leetcode-storybook/",\
           "packageDependencies": [\
-            ["generator-leetcode-storybook", "npm:0.0.2"]\
+            ["generator-leetcode-storybook", "npm:0.0.3"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.0.2", {\
-          "packageLocation": "./.yarn/__virtual__/generator-leetcode-storybook-virtual-27fcbba1f2/0/cache/generator-leetcode-storybook-npm-0.0.2-0ffbb7949a-1e09d02a36.zip/node_modules/generator-leetcode-storybook/",\
+        ["virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.0.3", {\
+          "packageLocation": "./.yarn/__virtual__/generator-leetcode-storybook-virtual-6b79741c1f/0/cache/generator-leetcode-storybook-npm-0.0.3-93bdb98695-7285cb7f68.zip/node_modules/generator-leetcode-storybook/",\
           "packageDependencies": [\
-            ["generator-leetcode-storybook", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.0.2"],\
+            ["generator-leetcode-storybook", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.0.3"],\
             ["@types/vsc-leetcode-cli", null],\
             ["espree", "npm:9.3.2"],\
             ["execa", "npm:6.1.0"],\
@@ -16047,7 +16047,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["slash", "npm:4.0.0"],\
             ["to-absolute-glob", "https://github.com/psychobolt/to-absolute-glob.git#commit=8583eea2b8791b92050a7bee00db808c5438cad1"],\
             ["vsc-leetcode-cli", "npm:2.8.0"],\
-            ["yeoman-generator", "virtual:27fcbba1f29a3a1a5f23427c8dca2df7fb1925627fbdcbc7786eece254469c5b6ac9028d6ca16581d2a5e4948cec40ca6ec44a218749f76a388c566c92830c25#npm:5.6.1"]\
+            ["yeoman-generator", "virtual:6b79741c1f9b339cde0f43bb3ad7de7aa49fcbb9a9c68dde86a92d056000130e2c27f423489df53b9e2a757c75d41fd28e1b9f64f473b20a6b2f59d42ada7a8b#npm:5.6.1"]\
           ],\
           "packagePeers": [\
             "@types/vsc-leetcode-cli",\
@@ -19800,7 +19800,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["execa", "npm:6.1.0"],\
             ["flow-bin", "npm:0.176.2"],\
             ["flow-typed", "npm:3.7.0"],\
-            ["generator-leetcode-storybook", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.0.2"],\
+            ["generator-leetcode-storybook", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.0.3"],\
             ["http-server", "npm:14.1.0"],\
             ["jest", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:27.5.1"],\
             ["jest-specific-snapshot", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:5.0.0"],\
@@ -29192,10 +29192,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:27fcbba1f29a3a1a5f23427c8dca2df7fb1925627fbdcbc7786eece254469c5b6ac9028d6ca16581d2a5e4948cec40ca6ec44a218749f76a388c566c92830c25#npm:5.6.1", {\
-          "packageLocation": "./.yarn/__virtual__/yeoman-generator-virtual-c3dbb6b3cd/0/cache/yeoman-generator-npm-5.6.1-a49b7654c4-ef036210b6.zip/node_modules/yeoman-generator/",\
+        ["virtual:6b79741c1f9b339cde0f43bb3ad7de7aa49fcbb9a9c68dde86a92d056000130e2c27f423489df53b9e2a757c75d41fd28e1b9f64f473b20a6b2f59d42ada7a8b#npm:5.6.1", {\
+          "packageLocation": "./.yarn/__virtual__/yeoman-generator-virtual-74deff579f/0/cache/yeoman-generator-npm-5.6.1-a49b7654c4-ef036210b6.zip/node_modules/yeoman-generator/",\
           "packageDependencies": [\
-            ["yeoman-generator", "virtual:27fcbba1f29a3a1a5f23427c8dca2df7fb1925627fbdcbc7786eece254469c5b6ac9028d6ca16581d2a5e4948cec40ca6ec44a218749f76a388c566c92830c25#npm:5.6.1"],\
+            ["yeoman-generator", "virtual:6b79741c1f9b339cde0f43bb3ad7de7aa49fcbb9a9c68dde86a92d056000130e2c27f423489df53b9e2a757c75d41fd28e1b9f64f473b20a6b2f59d42ada7a8b#npm:5.6.1"],\
             ["@types/yeoman-environment", null],\
             ["chalk", "npm:4.1.2"],\
             ["dargs", "npm:7.0.0"],\
