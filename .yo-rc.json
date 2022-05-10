@@ -1,0 +1,9 @@
+{
+  "generator-leetcode-storybook": {
+    "problem": {
+      "$1": {
+        "path": "Problems"
+      }
+    }
+  }
+}
