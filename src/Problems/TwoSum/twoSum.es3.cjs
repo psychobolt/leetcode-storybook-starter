@@ -10,7 +10,7 @@
  * @param {number} target
  * @return {number[]}
  */
-var twoSum = function twoSun(nums, target) { // eslint-disable-line no-unused-vars
+var twoSum = function (nums, target) { // eslint-disable-line no-unused-vars
   return 0;
 };
 // @lc code=end
