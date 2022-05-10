@@ -2293,9 +2293,9 @@ __metadata:
   linkType: hard
 
 "@jridgewell/set-array@npm:^1.0.0":
-  version: 1.1.1
-  resolution: "@jridgewell/set-array@npm:1.1.1"
-  checksum: cc5d91e0381c347e3edee4ca90b3c292df9e6e55f29acbe0dd97de8651b4730e9ab761406fd572effa79972a0edc55647b627f8c72315e276d959508853d9bf2
+  version: 1.1.0
+  resolution: "@jridgewell/set-array@npm:1.1.0"
+  checksum: 86ddd72ce7d2f7756dfb69804b35d0e760a85dcef30ed72e8610bf2c5e843f8878d977a0c77c4fdfa6a0e3d5b18e5bde4a1f1dd73fd2db06b200c998e9b5a6c5
   languageName: node
   linkType: hard
 
@@ -7200,9 +7200,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.30001332":
-  version: 1.0.30001338
-  resolution: "caniuse-lite@npm:1.0.30001338"
-  checksum: 80ac481b20aac13d6168825762e2ad9b9895d36451088b921400c3cd818185e6d113c2d202e82cf3b88f4d2311b3064507f2e3f9fe9f0935fcaf42d9d4f15570
+  version: 1.0.30001334
+  resolution: "caniuse-lite@npm:1.0.30001334"
+  checksum: 1a1c783942d53ca37dc3dbdd7c4a6f7994996d0bfd178d4f4cdd714c6b09d9d9f48a3a2452e009e8203aba4b7a2da43f3d9d88060668a46fc237dbe0d39358a3
   languageName: node
   linkType: hard
 
@@ -8121,12 +8121,12 @@ __metadata:
   linkType: hard
 
 "core-js-compat@npm:^3.22.1":
-  version: 3.22.4
-  resolution: "core-js-compat@npm:3.22.4"
+  version: 3.22.3
+  resolution: "core-js-compat@npm:3.22.3"
   dependencies:
     browserslist: ^4.20.3
     semver: 7.0.0
-  checksum: b58111ba60091ad99be7246ecbb806ff89f504a80f74d1ddd0f219fd51a8b9460db6043bd7fe046acd8bd1b4370c595cfadf70b18fca8520ad8fed52b1f837b5
+  checksum: 9b48c8f2e004b355933cfe9cfda9d937398ce79242073f89896cc3a1d4239b002410db1c2408a1618be9cbb7a567f83e81c9dfc5d591212dad08d6413de425ae
   languageName: node
   linkType: hard
 
@@ -9194,9 +9194,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.118":
-  version: 1.4.137
-  resolution: "electron-to-chromium@npm:1.4.137"
-  checksum: 639d7b94906efafcf363519c3698eecc44be46755a6a5cdc9088954329978866cc93fbd57e08b97290599b68d5226243d21de9fa50be416b8a5d3fa8fd42c3a0
+  version: 1.4.127
+  resolution: "electron-to-chromium@npm:1.4.127"
+  checksum: 960333a1da1b29b58ba0daab9e9c7527c2d54f4fc74a82c65a7556cb4ade1e8a1710e5ccd2c3bbf610a164800c6a13bad5c8212a0cf6f07091f1384f6e557939
   languageName: node
   linkType: hard
 

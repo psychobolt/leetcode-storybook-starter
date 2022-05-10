@@ -4136,7 +4136,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-plugin-polyfill-corejs2", "virtual:02d8279094138498a10cafdbc26eca6e2a8dbab2a5058dc1ef095a32e40e03a0e409559ed14dfe408cb5f2d210e4d016d930ece23fbc767bd2ddc0b3f9cf6132#npm:0.3.1"],\
             ["babel-plugin-polyfill-corejs3", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.5.2"],\
             ["babel-plugin-polyfill-regenerator", "virtual:02d8279094138498a10cafdbc26eca6e2a8dbab2a5058dc1ef095a32e40e03a0e409559ed14dfe408cb5f2d210e4d016d930ece23fbc767bd2ddc0b3f9cf6132#npm:0.3.1"],\
-            ["core-js-compat", "npm:3.22.4"],\
+            ["core-js-compat", "npm:3.22.3"],\
             ["semver", "npm:6.3.0"]\
           ],\
           "packagePeers": [\
@@ -5048,7 +5048,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@jridgewell-gen-mapping-npm-0.1.1-3bad172ac6-3bcc21fe78.zip/node_modules/@jridgewell/gen-mapping/",\
           "packageDependencies": [\
             ["@jridgewell/gen-mapping", "npm:0.1.1"],\
-            ["@jridgewell/set-array", "npm:1.1.1"],\
+            ["@jridgewell/set-array", "npm:1.1.0"],\
             ["@jridgewell/sourcemap-codec", "npm:1.4.11"]\
           ],\
           "linkType": "HARD"\
@@ -5064,10 +5064,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@jridgewell/set-array", [\
-        ["npm:1.1.1", {\
-          "packageLocation": "./.yarn/cache/@jridgewell-set-array-npm-1.1.1-0d86b67787-cc5d91e038.zip/node_modules/@jridgewell/set-array/",\
+        ["npm:1.1.0", {\
+          "packageLocation": "./.yarn/cache/@jridgewell-set-array-npm-1.1.0-28d7ec645b-86ddd72ce7.zip/node_modules/@jridgewell/set-array/",\
           "packageDependencies": [\
-            ["@jridgewell/set-array", "npm:1.1.1"]\
+            ["@jridgewell/set-array", "npm:1.1.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -11218,8 +11218,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/browserslist-npm-4.20.3-d7ff9d00b4-1e4b719ac2.zip/node_modules/browserslist/",\
           "packageDependencies": [\
             ["browserslist", "npm:4.20.3"],\
-            ["caniuse-lite", "npm:1.0.30001338"],\
-            ["electron-to-chromium", "npm:1.4.137"],\
+            ["caniuse-lite", "npm:1.0.30001334"],\
+            ["electron-to-chromium", "npm:1.4.127"],\
             ["escalade", "npm:3.1.1"],\
             ["node-releases", "npm:2.0.4"],\
             ["picocolors", "npm:1.0.0"]\
@@ -11588,10 +11588,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:1.0.30001338", {\
-          "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001338-0f5d19b25f-80ac481b20.zip/node_modules/caniuse-lite/",\
+        ["npm:1.0.30001334", {\
+          "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001334-4dc095c535-1a1c783942.zip/node_modules/caniuse-lite/",\
           "packageDependencies": [\
-            ["caniuse-lite", "npm:1.0.30001338"]\
+            ["caniuse-lite", "npm:1.0.30001334"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -12637,10 +12637,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:3.22.4", {\
-          "packageLocation": "./.yarn/cache/core-js-compat-npm-3.22.4-4416933c9f-b58111ba60.zip/node_modules/core-js-compat/",\
+        ["npm:3.22.3", {\
+          "packageLocation": "./.yarn/cache/core-js-compat-npm-3.22.3-be2a9b3888-9b48c8f2e0.zip/node_modules/core-js-compat/",\
           "packageDependencies": [\
-            ["core-js-compat", "npm:3.22.4"],\
+            ["core-js-compat", "npm:3.22.3"],\
             ["browserslist", "npm:4.20.3"],\
             ["semver", "npm:7.0.0"]\
           ],\
@@ -13871,10 +13871,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:1.4.137", {\
-          "packageLocation": "./.yarn/cache/electron-to-chromium-npm-1.4.137-35182e6efc-639d7b9490.zip/node_modules/electron-to-chromium/",\
+        ["npm:1.4.127", {\
+          "packageLocation": "./.yarn/cache/electron-to-chromium-npm-1.4.127-d838493213-960333a1da.zip/node_modules/electron-to-chromium/",\
           "packageDependencies": [\
-            ["electron-to-chromium", "npm:1.4.137"]\
+            ["electron-to-chromium", "npm:1.4.127"]\
           ],\
           "linkType": "HARD"\
         }]\
