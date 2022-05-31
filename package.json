@@ -73,7 +73,7 @@
     "flow-bin": "0.176.2",
     "flow-typed": "3.7.0",
     "generator-leetcode-storybook": "0.0.5",
-    "http-server": "14.1.0",
+    "http-server": "14.1.1",
     "jest": "27.5.1",
     "jest-specific-snapshot": "5.0.0",
     "markdown-to-jsx": "7.1.7",
