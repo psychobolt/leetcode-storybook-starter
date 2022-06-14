@@ -84,7 +84,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-plugin-module-resolver", "npm:4.1.0"],\
             ["babel-plugin-named-exports-order", "npm:0.0.2"],\
             ["babel-plugin-polyfill-corejs3", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.5.2"],\
-            ["concurrently", "npm:7.2.1"],\
+            ["concurrently", "npm:7.2.2"],\
             ["core-js", "npm:3.23.1"],\
             ["cross-env", "npm:7.0.3"],\
             ["cross-spawn", "npm:7.0.3"],\
@@ -13483,14 +13483,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["concurrently", [\
-        ["npm:7.2.1", {\
-          "packageLocation": "./.yarn/cache/concurrently-npm-7.2.1-ba3d6059c9-384e9f48f2.zip/node_modules/concurrently/",\
+        ["npm:7.2.2", {\
+          "packageLocation": "./.yarn/cache/concurrently-npm-7.2.2-acda7e7c25-ae9604032d.zip/node_modules/concurrently/",\
           "packageDependencies": [\
-            ["concurrently", "npm:7.2.1"],\
+            ["concurrently", "npm:7.2.2"],\
             ["chalk", "npm:4.1.2"],\
             ["date-fns", "npm:2.28.0"],\
             ["lodash", "npm:4.17.21"],\
-            ["rxjs", "npm:6.6.7"],\
+            ["rxjs", "npm:7.5.5"],\
             ["shell-quote", "npm:1.7.3"],\
             ["spawn-command", "npm:0.0.2"],\
             ["supports-color", "npm:8.1.1"],\
@@ -21061,7 +21061,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-plugin-module-resolver", "npm:4.1.0"],\
             ["babel-plugin-named-exports-order", "npm:0.0.2"],\
             ["babel-plugin-polyfill-corejs3", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.5.2"],\
-            ["concurrently", "npm:7.2.1"],\
+            ["concurrently", "npm:7.2.2"],\
             ["core-js", "npm:3.23.1"],\
             ["cross-env", "npm:7.0.3"],\
             ["cross-spawn", "npm:7.0.3"],\
