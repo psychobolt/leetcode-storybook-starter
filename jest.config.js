@@ -7,5 +7,5 @@ export default {
     '/node_modules/',
     '/flow-deps-modules/',
   ],
-  collectCoverageFrom: ['<rootDir>/src/**/*.js'],
+  collectCoverageFrom: ['<rootDir>/src/**/*.?(c)js'],
 };
