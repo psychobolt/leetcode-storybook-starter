@@ -4,8 +4,7 @@
       "$1": {
         "path": "Problems",
         "languages": [
-          "javascript",
-          "python"
+          "javascript"
         ]
       }
     }
