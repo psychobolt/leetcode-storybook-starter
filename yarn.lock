@@ -12309,9 +12309,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"generator-leetcode-storybook@npm:0.0.6":
-  version: 0.0.6
-  resolution: "generator-leetcode-storybook@npm:0.0.6"
+"generator-leetcode-storybook@npm:0.0.7":
+  version: 0.0.7
+  resolution: "generator-leetcode-storybook@npm:0.0.7"
   dependencies:
     espree: 9.3.2
     execa: 6.1.0
@@ -12324,7 +12324,7 @@ __metadata:
     yeoman-generator: 5.6.1
   peerDependencies:
     vsc-leetcode-cli: "*"
-  checksum: a510b5afc15e836c85f6ff0d42f04997cdcba634b94891403820b02c55c6f771294119a2816ed2530e11e343037ea65762bbdfe05e6342575dd89caf59a3211f
+  checksum: 26cb4b00b6c4bfd01b77339310d75464e307641a6cfbba99f6d5601cac2591087d6cdd1a79e54fac7e894afb5cedcef9dfbb8fb1c456c0633c97535c2ecde30e
   languageName: node
   linkType: hard
 
@@ -15758,7 +15758,7 @@ __metadata:
     execa: 6.1.0
     flow-bin: 0.176.2
     flow-typed: 3.8.0
-    generator-leetcode-storybook: 0.0.6
+    generator-leetcode-storybook: 0.0.7
     http-server: 14.1.1
     jest: 27.5.1
     jest-specific-snapshot: 5.0.0

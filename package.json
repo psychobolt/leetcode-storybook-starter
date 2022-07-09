@@ -72,7 +72,7 @@
     "execa": "6.1.0",
     "flow-bin": "0.176.2",
     "flow-typed": "3.8.0",
-    "generator-leetcode-storybook": "0.0.6",
+    "generator-leetcode-storybook": "0.0.7",
     "http-server": "14.1.1",
     "jest": "27.5.1",
     "jest-specific-snapshot": "5.0.0",
