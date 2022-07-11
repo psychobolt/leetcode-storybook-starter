@@ -26540,7 +26540,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/rxjs-npm-6.6.7-055046ea3c-bc334edef1.zip/node_modules/rxjs/",\
           "packageDependencies": [\
             ["rxjs", "npm:6.6.7"],\
-            ["tslib", "npm:1.14.1"]\
+            ["tslib", "npm:2.4.0"]\
           ],\
           "linkType": "HARD"\
         }],\
