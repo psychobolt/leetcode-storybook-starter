@@ -3130,19 +3130,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@geometricpanda/storybook-addon-badges@npm:0.2.1":
-  version: 0.2.1
-  resolution: "@geometricpanda/storybook-addon-badges@npm:0.2.1"
+"@geometricpanda/storybook-addon-badges@npm:0.2.2":
+  version: 0.2.2
+  resolution: "@geometricpanda/storybook-addon-badges@npm:0.2.2"
   dependencies:
-    react: ^17.0.2
-    react-dom: ^17.0.2
-    react-is: ^17.0.2
-  peerDependencies:
     "@storybook/addons": ^6.2.9
     "@storybook/api": ^6.2.9
     "@storybook/components": ^6.2.9
     "@storybook/theming": ^6.2.9
-  checksum: a063d91beb9d5a55b26c7db80f3b0806b4d37d8359a722487a6cb510493a20e8b8fd1d45a5314fd80b5f4aaf0bbf556ca284bfa19b709dd353da3ec7b4e82553
+    react: ^17.0.2
+    react-dom: ^17.0.2
+    react-is: ^17.0.2
+    styled-components: ^5.2.1
+  checksum: f78dbdd1b4c542d7819347ca6e48cca0b04b4f66f4f1358867ec2f4a1d2a6aea3f1368e9a4218830d619d0a85631ceff33e5ba0a9dc9ed58ffde1d4815eb6935
   languageName: node
   linkType: hard
 
@@ -4327,7 +4327,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storybook/addons@npm:6.5.9":
+"@storybook/addons@npm:6.5.9, @storybook/addons@npm:^6.2.9":
   version: 6.5.9
   resolution: "@storybook/addons@npm:6.5.9"
   dependencies:
@@ -4377,7 +4377,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storybook/api@npm:6.5.9":
+"@storybook/api@npm:6.5.9, @storybook/api@npm:^6.2.9":
   version: 6.5.9
   resolution: "@storybook/api@npm:6.5.9"
   dependencies:
@@ -4629,7 +4629,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storybook/components@npm:6.5.9":
+"@storybook/components@npm:6.5.9, @storybook/components@npm:^6.2.9":
   version: 6.5.9
   resolution: "@storybook/components@npm:6.5.9"
   dependencies:
@@ -5380,7 +5380,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@storybook/theming@npm:6.5.9":
+"@storybook/theming@npm:6.5.9, @storybook/theming@npm:^6.2.9":
   version: 6.5.9
   resolution: "@storybook/theming@npm:6.5.9"
   dependencies:
@@ -15753,7 +15753,7 @@ __metadata:
     "@babel/preset-env": 7.18.6
     "@babel/preset-flow": 7.18.6
     "@babel/preset-react": 7.18.6
-    "@geometricpanda/storybook-addon-badges": 0.2.1
+    "@geometricpanda/storybook-addon-badges": 0.2.2
     "@mdx-js/react": 1.6.22
     "@storybook/addon-actions": 6.5.9
     "@storybook/addon-docs": 6.5.9
@@ -21704,7 +21704,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"styled-components@npm:5.3.5":
+"styled-components@npm:5.3.5, styled-components@npm:^5.2.1":
   version: 5.3.5
   resolution: "styled-components@npm:5.3.5"
   dependencies:
