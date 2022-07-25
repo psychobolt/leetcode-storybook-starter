@@ -100,7 +100,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-react-hooks", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:4.6.0"],\
             ["eslint-plugin-storybook", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.6.1"],\
             ["execa", "npm:6.1.0"],\
-            ["flow-bin", "npm:0.176.2"],\
+            ["flow-bin", "npm:0.183.0"],\
             ["flow-typed", "npm:3.8.0"],\
             ["generator-leetcode-storybook", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.0.8"],\
             ["http-server", "npm:14.1.1"],\
@@ -13984,10 +13984,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["flow-bin", [\
-        ["npm:0.176.2", {\
-          "packageLocation": "./.yarn/unplugged/flow-bin-npm-0.176.2-a36a357324/node_modules/flow-bin/",\
+        ["npm:0.183.0", {\
+          "packageLocation": "./.yarn/unplugged/flow-bin-npm-0.183.0-9e7bd6f66e/node_modules/flow-bin/",\
           "packageDependencies": [\
-            ["flow-bin", "npm:0.176.2"]\
+            ["flow-bin", "npm:0.183.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -18252,7 +18252,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-react-hooks", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:4.6.0"],\
             ["eslint-plugin-storybook", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.6.1"],\
             ["execa", "npm:6.1.0"],\
-            ["flow-bin", "npm:0.176.2"],\
+            ["flow-bin", "npm:0.183.0"],\
             ["flow-typed", "npm:3.8.0"],\
             ["generator-leetcode-storybook", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.0.8"],\
             ["http-server", "npm:14.1.1"],\
