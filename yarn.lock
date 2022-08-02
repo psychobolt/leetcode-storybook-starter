@@ -5412,7 +5412,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"acorn@npm:^8.2.4, acorn@npm:^8.5.0, acorn@npm:^8.7.1":
+"acorn@npm:^8.2.4, acorn@npm:^8.5.0, acorn@npm:^8.7.1, acorn@npm:^8.8.0":
   version: 8.8.0
   resolution: "acorn@npm:8.8.0"
   bin:
@@ -9823,7 +9823,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"espree@npm:9.3.2, espree@npm:^9.3.1, espree@npm:^9.3.2":
+"espree@npm:9.3.3":
+  version: 9.3.3
+  resolution: "espree@npm:9.3.3"
+  dependencies:
+    acorn: ^8.8.0
+    acorn-jsx: ^5.3.2
+    eslint-visitor-keys: ^3.3.0
+  checksum: 33e8a36fc15d082e68672e322e22a53856b564d60aad8f291a667bfc21b2c900c42412d37dd3c7a0f18b9d0d8f8858dabe8776dbd4b4c2f72c5cf4d6afeabf65
+  languageName: node
+  linkType: hard
+
+"espree@npm:^9.3.1, espree@npm:^9.3.2":
   version: 9.3.2
   resolution: "espree@npm:9.3.2"
   dependencies:
@@ -9977,23 +9988,6 @@ __metadata:
     signal-exit: ^3.0.0
     strip-eof: ^1.0.0
   checksum: ddf1342c1c7d02dd93b41364cd847640f6163350d9439071abf70bf4ceb1b9b2b2e37f54babb1d8dc1df8e0d8def32d0e81e74a2e62c3e1d70c303eb4c306bc4
-  languageName: node
-  linkType: hard
-
-"execa@npm:^4.1.0":
-  version: 4.1.0
-  resolution: "execa@npm:4.1.0"
-  dependencies:
-    cross-spawn: ^7.0.0
-    get-stream: ^5.0.0
-    human-signals: ^1.1.1
-    is-stream: ^2.0.0
-    merge-stream: ^2.0.0
-    npm-run-path: ^4.0.0
-    onetime: ^5.1.0
-    signal-exit: ^3.0.2
-    strip-final-newline: ^2.0.0
-  checksum: e30d298934d9c52f90f3847704fd8224e849a081ab2b517bbc02f5f7732c24e56a21f14cb96a08256deffeb2d12b2b7cb7e2b014a12fb36f8d3357e06417ed55
   languageName: node
   linkType: hard
 
@@ -10972,11 +10966,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"generator-leetcode-storybook@npm:0.0.10":
-  version: 0.0.10
-  resolution: "generator-leetcode-storybook@npm:0.0.10"
+"generator-leetcode-storybook@npm:0.0.11":
+  version: 0.0.11
+  resolution: "generator-leetcode-storybook@npm:0.0.11"
   dependencies:
-    espree: 9.3.2
+    espree: 9.3.3
     execa: 6.1.0
     glob: 8.0.3
     isbinaryfile: 5.0.0
@@ -10984,10 +10978,10 @@ __metadata:
     require-from-string: 2.0.2
     slash: 4.0.0
     to-absolute-glob: "https://github.com/psychobolt/to-absolute-glob"
-    yeoman-generator: 5.6.1
+    yeoman-generator: 5.7.0
   peerDependencies:
     vsc-leetcode-cli: "*"
-  checksum: 51a092e830f93fa2b066016fd3e5654524645a3339a8ed209ee3f493a85319f93758d5924a5612d000a4fac336930f2350319d42afb33c5b13bc20d134ce7f68
+  checksum: 2a556a3a0e4d84c89c4c1f395a15360a62379466356a6ab88b9cc1af5f9cd5c5caa4456d3ad1bd02e3648d06b80acdbdc9428856c7d09ff65e9d30ff6ce928f3
   languageName: node
   linkType: hard
 
@@ -11053,7 +11047,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"get-stream@npm:^5.0.0, get-stream@npm:^5.1.0":
+"get-stream@npm:^5.1.0":
   version: 5.2.0
   resolution: "get-stream@npm:5.2.0"
   dependencies:
@@ -12026,13 +12020,6 @@ __metadata:
     agent-base: 6
     debug: 4
   checksum: 571fccdf38184f05943e12d37d6ce38197becdd69e58d03f43637f7fa1269cf303a7d228aa27e5b27bbd3af8f09fd938e1c91dcfefff2df7ba77c20ed8dfc765
-  languageName: node
-  linkType: hard
-
-"human-signals@npm:^1.1.1":
-  version: 1.1.1
-  resolution: "human-signals@npm:1.1.1"
-  checksum: d587647c9e8ec24e02821b6be7de5a0fc37f591f6c4e319b3054b43fd4c35a70a94c46fc74d8c1a43c47fde157d23acd7421f375e1c1365b09a16835b8300205
   languageName: node
   linkType: hard
 
@@ -14344,7 +14331,7 @@ __metadata:
     execa: 6.1.0
     flow-bin: 0.176.2
     flow-typed: 3.8.0
-    generator-leetcode-storybook: 0.0.10
+    generator-leetcode-storybook: 0.0.11
     http-server: 14.1.1
     jest: 27.5.1
     jest-specific-snapshot: 5.0.0
@@ -16006,7 +15993,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"npm-run-path@npm:^4.0.0, npm-run-path@npm:^4.0.1":
+"npm-run-path@npm:^4.0.1":
   version: 4.0.1
   resolution: "npm-run-path@npm:4.0.1"
   dependencies:
@@ -22637,14 +22624,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"yeoman-generator@npm:5.6.1":
-  version: 5.6.1
-  resolution: "yeoman-generator@npm:5.6.1"
+"yeoman-generator@npm:5.7.0":
+  version: 5.7.0
+  resolution: "yeoman-generator@npm:5.7.0"
   dependencies:
     chalk: ^4.1.0
     dargs: ^7.0.0
     debug: ^4.1.1
-    execa: ^4.1.0
+    execa: ^5.1.1
     github-username: ^6.0.0
     lodash: ^4.17.11
     minimist: ^1.2.5
@@ -22659,7 +22646,7 @@ __metadata:
   peerDependenciesMeta:
     yeoman-environment:
       optional: true
-  checksum: ef036210b6fb16f32d2615cd7c5d60a3ed17d1be5402ad997eee91ac709880802ad4026c1486bfff1ef891d284c1bbb15ab45caf8e287e175204d204f8d03474
+  checksum: 16b779372d89e2bff2b10d73c942f7b30a08ba92f329d1a1f0e485810d2ee1f8aa59ff454bd5398042ec8e6fdc7db89f8dd98040b42f6a92a2eaca579bca1a3f
   languageName: node
   linkType: hard
 
