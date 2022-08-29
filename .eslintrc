@@ -17,6 +17,7 @@
     "react/jsx-props-no-spreading": 0,
     "react/jsx-filename-extension": ["warn", { "extensions": [".js", ".jsx", ".mdx"] }],
     "no-restricted-exports": 0,
+    "no-bitwise": 0,
     "yoda": ["error", "never", { "exceptRange": true }]
   },
   "overrides": [
