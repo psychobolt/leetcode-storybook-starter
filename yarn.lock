@@ -7108,15 +7108,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"babel-plugin-polyfill-corejs3@npm:0.5.3, babel-plugin-polyfill-corejs3@npm:^0.5.2":
-  version: 0.5.3
-  resolution: "babel-plugin-polyfill-corejs3@npm:0.5.3"
+"babel-plugin-polyfill-corejs3@npm:0.6.0, babel-plugin-polyfill-corejs3@npm:^0.6.0":
+  version: 0.6.0
+  resolution: "babel-plugin-polyfill-corejs3@npm:0.6.0"
   dependencies:
-    "@babel/helper-define-polyfill-provider": ^0.3.2
-    core-js-compat: ^3.21.0
+    "@babel/helper-define-polyfill-provider": ^0.3.3
+    core-js-compat: ^3.25.1
   peerDependencies:
     "@babel/core": ^7.0.0-0
-  checksum: 9c6644a1b0afbe59e402827fdafc6f44994ff92c5b2f258659cbbfd228f7075dea49e95114af10e66d70f36cbde12ff1d81263eb67be749b3ef0e2c18cf3c16d
+  checksum: 470bb8c59f7c0912bd77fe1b5a2e72f349b3f65bbdee1d60d6eb7e1f4a085c6f24b2dd5ab4ac6c2df6444a96b070ef6790eccc9edb6a2668c60d33133bfb62c6
   languageName: node
   linkType: hard
 
@@ -7132,15 +7132,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"babel-plugin-polyfill-corejs3@npm:^0.6.0":
-  version: 0.6.0
-  resolution: "babel-plugin-polyfill-corejs3@npm:0.6.0"
+"babel-plugin-polyfill-corejs3@npm:^0.5.2":
+  version: 0.5.3
+  resolution: "babel-plugin-polyfill-corejs3@npm:0.5.3"
   dependencies:
-    "@babel/helper-define-polyfill-provider": ^0.3.3
-    core-js-compat: ^3.25.1
+    "@babel/helper-define-polyfill-provider": ^0.3.2
+    core-js-compat: ^3.21.0
   peerDependencies:
     "@babel/core": ^7.0.0-0
-  checksum: 470bb8c59f7c0912bd77fe1b5a2e72f349b3f65bbdee1d60d6eb7e1f4a085c6f24b2dd5ab4ac6c2df6444a96b070ef6790eccc9edb6a2668c60d33133bfb62c6
+  checksum: 9c6644a1b0afbe59e402827fdafc6f44994ff92c5b2f258659cbbfd228f7075dea49e95114af10e66d70f36cbde12ff1d81263eb67be749b3ef0e2c18cf3c16d
   languageName: node
   linkType: hard
 
@@ -15254,7 +15254,7 @@ __metadata:
     babel-plugin-macros: 3.1.0
     babel-plugin-module-resolver: 4.1.0
     babel-plugin-named-exports-order: 0.0.2
-    babel-plugin-polyfill-corejs3: 0.5.3
+    babel-plugin-polyfill-corejs3: 0.6.0
     concurrently: 7.3.0
     core-js: 3.27.2
     cross-env: 7.0.3
