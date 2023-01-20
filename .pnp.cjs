@@ -107,7 +107,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-dom", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:18.2.0"],\
             ["react-is", "npm:18.2.0"],\
             ["require-from-string", "npm:2.0.2"],\
-            ["rimraf", "npm:3.0.2"],\
+            ["rimraf", "npm:4.1.1"],\
             ["slash", "npm:4.0.0"],\
             ["styled-components", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:5.3.6"],\
             ["stylelint", "npm:14.16.1"],\
@@ -21331,7 +21331,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-dom", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:18.2.0"],\
             ["react-is", "npm:18.2.0"],\
             ["require-from-string", "npm:2.0.2"],\
-            ["rimraf", "npm:3.0.2"],\
+            ["rimraf", "npm:4.1.1"],\
             ["slash", "npm:4.0.0"],\
             ["styled-components", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:5.3.6"],\
             ["stylelint", "npm:14.16.1"],\
@@ -26492,6 +26492,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["rimraf", "npm:3.0.2"],\
             ["glob", "npm:7.2.3"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
+        ["npm:4.1.1", {\
+          "packageLocation": "./.yarn/cache/rimraf-npm-4.1.1-dd8c4d8514-f52d46f59c.zip/node_modules/rimraf/",\
+          "packageDependencies": [\
+            ["rimraf", "npm:4.1.1"]\
           ],\
           "linkType": "HARD"\
         }]\
