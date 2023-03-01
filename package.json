@@ -27,7 +27,7 @@
     "@babel/preset-env": "7.20.2",
     "@babel/preset-flow": "7.18.6",
     "@babel/preset-react": "7.18.6",
-    "@geometricpanda/storybook-addon-badges": "0.2.2",
+    "@geometricpanda/storybook-addon-badges": "1.1.1",
     "@mdx-js/react": "1.6.22",
     "@storybook/addon-actions": "6.5.16",
     "@storybook/addon-docs": "6.5.16",
