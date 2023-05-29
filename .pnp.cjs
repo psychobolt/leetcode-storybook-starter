@@ -100,7 +100,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["generator-leetcode-storybook", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.0.12"],\
             ["http-server", "npm:14.1.1"],\
             ["jest", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:27.5.1"],\
-            ["jest-specific-snapshot", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:7.0.0"],\
+            ["jest-specific-snapshot", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:8.0.0"],\
             ["lodash", "npm:4.17.21"],\
             ["markdown-to-jsx", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:7.2.0"],\
             ["react", "npm:18.2.0"],\
@@ -21804,17 +21804,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["jest-specific-snapshot", [\
-        ["npm:7.0.0", {\
-          "packageLocation": "./.yarn/cache/jest-specific-snapshot-npm-7.0.0-50eb746441-1ebaade142.zip/node_modules/jest-specific-snapshot/",\
+        ["npm:8.0.0", {\
+          "packageLocation": "./.yarn/cache/jest-specific-snapshot-npm-8.0.0-5813d98b95-8ffcee9ca7.zip/node_modules/jest-specific-snapshot/",\
           "packageDependencies": [\
-            ["jest-specific-snapshot", "npm:7.0.0"]\
+            ["jest-specific-snapshot", "npm:8.0.0"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:7.0.0", {\
-          "packageLocation": "./.yarn/__virtual__/jest-specific-snapshot-virtual-5dd35e174c/0/cache/jest-specific-snapshot-npm-7.0.0-50eb746441-1ebaade142.zip/node_modules/jest-specific-snapshot/",\
+        ["virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:8.0.0", {\
+          "packageLocation": "./.yarn/__virtual__/jest-specific-snapshot-virtual-5e0fc43fd2/0/cache/jest-specific-snapshot-npm-8.0.0-5813d98b95-8ffcee9ca7.zip/node_modules/jest-specific-snapshot/",\
           "packageDependencies": [\
-            ["jest-specific-snapshot", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:7.0.0"],\
+            ["jest-specific-snapshot", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:8.0.0"],\
             ["@types/jest", null],\
             ["jest", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:27.5.1"],\
             ["jest-snapshot", "npm:29.3.1"]\
@@ -22476,7 +22476,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["generator-leetcode-storybook", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.0.12"],\
             ["http-server", "npm:14.1.1"],\
             ["jest", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:27.5.1"],\
-            ["jest-specific-snapshot", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:7.0.0"],\
+            ["jest-specific-snapshot", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:8.0.0"],\
             ["lodash", "npm:4.17.21"],\
             ["markdown-to-jsx", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:7.2.0"],\
             ["react", "npm:18.2.0"],\
