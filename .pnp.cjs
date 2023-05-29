@@ -108,7 +108,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-is", "npm:18.2.0"],\
             ["require-from-string", "npm:2.0.2"],\
             ["rimraf", "npm:4.4.1"],\
-            ["slash", "npm:5.0.0"],\
+            ["slash", "npm:5.1.0"],\
             ["styled-components", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:5.3.11"],\
             ["stylelint", "npm:14.16.1"],\
             ["stylelint-config-standard-scss", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:7.0.1"],\
@@ -22271,7 +22271,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-is", "npm:18.2.0"],\
             ["require-from-string", "npm:2.0.2"],\
             ["rimraf", "npm:4.4.1"],\
-            ["slash", "npm:5.0.0"],\
+            ["slash", "npm:5.1.0"],\
             ["styled-components", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:5.3.11"],\
             ["stylelint", "npm:14.16.1"],\
             ["stylelint-config-standard-scss", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:7.0.1"],\
@@ -28120,10 +28120,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:5.0.0", {\
-          "packageLocation": "./.yarn/cache/slash-npm-5.0.0-ae16ec7b63-1fa799ee16.zip/node_modules/slash/",\
+        ["npm:5.1.0", {\
+          "packageLocation": "./.yarn/cache/slash-npm-5.1.0-718a84282e-70434b34c5.zip/node_modules/slash/",\
           "packageDependencies": [\
-            ["slash", "npm:5.0.0"]\
+            ["slash", "npm:5.1.0"]\
           ],\
           "linkType": "HARD"\
         }]\
