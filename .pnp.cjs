@@ -79,7 +79,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-plugin-module-resolver", "npm:5.0.0"],\
             ["babel-plugin-named-exports-order", "npm:0.0.2"],\
             ["babel-plugin-polyfill-corejs3", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.8.1"],\
-            ["concurrently", "npm:8.0.1"],\
+            ["concurrently", "npm:8.2.0"],\
             ["core-js", "npm:3.30.2"],\
             ["cross-env", "npm:7.0.3"],\
             ["cross-spawn", "npm:7.0.3"],\
@@ -14901,16 +14901,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["concurrently", [\
-        ["npm:8.0.1", {\
-          "packageLocation": "./.yarn/cache/concurrently-npm-8.0.1-67a3307bfd-cce10ab1bb.zip/node_modules/concurrently/",\
+        ["npm:8.2.0", {\
+          "packageLocation": "./.yarn/cache/concurrently-npm-8.2.0-be774a222e-eafe6a4d9b.zip/node_modules/concurrently/",\
           "packageDependencies": [\
-            ["concurrently", "npm:8.0.1"],\
+            ["concurrently", "npm:8.2.0"],\
             ["chalk", "npm:4.1.2"],\
             ["date-fns", "npm:2.30.0"],\
             ["lodash", "npm:4.17.21"],\
             ["rxjs", "npm:7.8.1"],\
             ["shell-quote", "npm:1.8.1"],\
-            ["spawn-command", "npm:0.0.2-1"],\
+            ["spawn-command", "npm:0.0.2"],\
             ["supports-color", "npm:8.1.1"],\
             ["tree-kill", "npm:1.2.2"],\
             ["yargs", "npm:17.7.2"]\
@@ -22822,7 +22822,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-plugin-module-resolver", "npm:5.0.0"],\
             ["babel-plugin-named-exports-order", "npm:0.0.2"],\
             ["babel-plugin-polyfill-corejs3", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.8.1"],\
-            ["concurrently", "npm:8.0.1"],\
+            ["concurrently", "npm:8.2.0"],\
             ["core-js", "npm:3.30.2"],\
             ["cross-env", "npm:7.0.3"],\
             ["cross-spawn", "npm:7.0.3"],\
@@ -28950,10 +28950,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["spawn-command", [\
-        ["npm:0.0.2-1", {\
-          "packageLocation": "./.yarn/cache/spawn-command-npm-0.0.2-1-b5bde7f215-2cac851933.zip/node_modules/spawn-command/",\
+        ["npm:0.0.2", {\
+          "packageLocation": "./.yarn/cache/spawn-command-npm-0.0.2-014d4d5d9f-e35c5d2817.zip/node_modules/spawn-command/",\
           "packageDependencies": [\
-            ["spawn-command", "npm:0.0.2-1"]\
+            ["spawn-command", "npm:0.0.2"]\
           ],\
           "linkType": "HARD"\
         }]\
