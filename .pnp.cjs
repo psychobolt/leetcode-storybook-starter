@@ -79,7 +79,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-plugin-module-resolver", "npm:5.0.0"],\
             ["babel-plugin-named-exports-order", "npm:0.0.2"],\
             ["babel-plugin-polyfill-corejs3", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.8.3"],\
-            ["concurrently", "npm:8.2.1"],\
+            ["concurrently", "npm:8.2.2"],\
             ["core-js", "npm:3.32.1"],\
             ["cross-env", "npm:7.0.3"],\
             ["cross-spawn", "npm:7.0.3"],\
@@ -16872,10 +16872,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["concurrently", [\
-        ["npm:8.2.1", {\
-          "packageLocation": "./.yarn/cache/concurrently-npm-8.2.1-2922c29e4d-216cb16d5b.zip/node_modules/concurrently/",\
+        ["npm:8.2.2", {\
+          "packageLocation": "./.yarn/cache/concurrently-npm-8.2.2-8ae42f052b-8ac774df06.zip/node_modules/concurrently/",\
           "packageDependencies": [\
-            ["concurrently", "npm:8.2.1"],\
+            ["concurrently", "npm:8.2.2"],\
             ["chalk", "npm:4.1.2"],\
             ["date-fns", "npm:2.30.0"],\
             ["lodash", "npm:4.17.21"],\
@@ -25027,7 +25027,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["babel-plugin-module-resolver", "npm:5.0.0"],\
             ["babel-plugin-named-exports-order", "npm:0.0.2"],\
             ["babel-plugin-polyfill-corejs3", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.8.3"],\
-            ["concurrently", "npm:8.2.1"],\
+            ["concurrently", "npm:8.2.2"],\
             ["core-js", "npm:3.32.1"],\
             ["cross-env", "npm:7.0.3"],\
             ["cross-spawn", "npm:7.0.3"],\
