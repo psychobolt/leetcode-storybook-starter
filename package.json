@@ -89,7 +89,7 @@
     "stylelint-config-standard-scss": "7.0.1",
     "stylelint-config-styled-components": "0.1.1",
     "stylelint-processor-styled-components": "https://github.com/psychobolt/stylelint-processor-styled-components",
-    "symlink-dir": "5.1.1",
+    "symlink-dir": "5.2.1",
     "vsc-leetcode-cli": "2.8.1",
     "webpack": "5.88.2",
     "yo": "4.3.1"
