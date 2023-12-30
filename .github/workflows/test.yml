@@ -25,7 +25,7 @@ jobs:
       - uses: actions/checkout@v4
       - run: yarn test --coverage
         shell: bash
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: coverage_${{ github.sha }}
           path: |
