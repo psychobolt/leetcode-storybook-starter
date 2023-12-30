@@ -9,7 +9,7 @@ jobs:
     name: "Lint Sources"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - run: yarn install
         shell: bash
       - run: yarn flow-typed-install
@@ -22,7 +22,7 @@ jobs:
     name: "Test Project"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - run: yarn test --coverage
         shell: bash
       - uses: actions/upload-artifact@v3
@@ -37,7 +37,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: test
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: actions/download-artifact@v3
         with:
           name: coverage_${{ github.sha }}
@@ -46,7 +46,7 @@ jobs:
     name: "Run Visual Tests"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
       - uses: actions/download-artifact@v3
