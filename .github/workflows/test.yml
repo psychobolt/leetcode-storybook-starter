@@ -53,7 +53,7 @@ jobs:
         with:
           name: bundles_${{ github.sha }}
           path: storybook-static
-      - uses: chromaui/action@v1
+      - uses: chromaui/action@v10
         with:
           projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
           storybookBuildDir: storybook-static
