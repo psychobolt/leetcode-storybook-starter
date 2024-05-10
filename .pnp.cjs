@@ -71,7 +71,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@storybook/testing-library", "npm:0.2.2"],\
             ["@storybook/testing-react", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:1.3.0"],\
             ["@storybook/theming", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:6.5.16"],\
-            ["@testing-library/react", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:14.2.1"],\
+            ["@testing-library/react", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:14.3.1"],\
             ["@yarnpkg/sdks", "npm:3.1.2"],\
             ["app-root-path", "npm:3.1.0"],\
             ["babel-loader", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:9.1.3"],\
@@ -10437,17 +10437,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@testing-library/react", [\
-        ["npm:14.2.1", {\
-          "packageLocation": "./.yarn/cache/@testing-library-react-npm-14.2.1-95eb1af3fb-7054ae69a0.zip/node_modules/@testing-library/react/",\
+        ["npm:14.3.1", {\
+          "packageLocation": "./.yarn/cache/@testing-library-react-npm-14.3.1-08c822f7c7-b057d4c9db.zip/node_modules/@testing-library/react/",\
           "packageDependencies": [\
-            ["@testing-library/react", "npm:14.2.1"]\
+            ["@testing-library/react", "npm:14.3.1"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:14.2.1", {\
-          "packageLocation": "./.yarn/__virtual__/@testing-library-react-virtual-aad3a95199/0/cache/@testing-library-react-npm-14.2.1-95eb1af3fb-7054ae69a0.zip/node_modules/@testing-library/react/",\
+        ["virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:14.3.1", {\
+          "packageLocation": "./.yarn/__virtual__/@testing-library-react-virtual-f46f1fcefd/0/cache/@testing-library-react-npm-14.3.1-08c822f7c7-b057d4c9db.zip/node_modules/@testing-library/react/",\
           "packageDependencies": [\
-            ["@testing-library/react", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:14.2.1"],\
+            ["@testing-library/react", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:14.3.1"],\
             ["@babel/runtime", "npm:7.18.9"],\
             ["@testing-library/dom", "npm:9.0.0"],\
             ["@types/react", null],\
@@ -23713,7 +23713,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@storybook/testing-library", "npm:0.2.2"],\
             ["@storybook/testing-react", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:1.3.0"],\
             ["@storybook/theming", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:6.5.16"],\
-            ["@testing-library/react", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:14.2.1"],\
+            ["@testing-library/react", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:14.3.1"],\
             ["@yarnpkg/sdks", "npm:3.1.2"],\
             ["app-root-path", "npm:3.1.0"],\
             ["babel-loader", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:9.1.3"],\
