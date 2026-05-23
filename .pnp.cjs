@@ -82,7 +82,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["concurrently", "npm:8.2.2"],\
             ["core-js", "npm:3.37.0"],\
             ["cross-env", "npm:7.0.3"],\
-            ["cross-spawn", "npm:7.0.3"],\
+            ["cross-spawn", "npm:7.0.6"],\
             ["eslint", "npm:8.13.0"],\
             ["eslint-config-airbnb", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:19.0.4"],\
             ["eslint-import-resolver-webpack", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.13.11"],\
@@ -15885,6 +15885,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["which", "npm:2.0.2"]\
           ],\
           "linkType": "HARD"\
+        }],\
+        ["npm:7.0.6", {\
+          "packageLocation": "./.yarn/cache/cross-spawn-npm-7.0.6-264bddf921-8d306efaca.zip/node_modules/cross-spawn/",\
+          "packageDependencies": [\
+            ["cross-spawn", "npm:7.0.6"],\
+            ["path-key", "npm:3.1.1"],\
+            ["shebang-command", "npm:2.0.0"],\
+            ["which", "npm:2.0.2"]\
+          ],\
+          "linkType": "HARD"\
         }]\
       ]],\
       ["crypt", [\
@@ -24224,7 +24234,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["concurrently", "npm:8.2.2"],\
             ["core-js", "npm:3.37.0"],\
             ["cross-env", "npm:7.0.3"],\
-            ["cross-spawn", "npm:7.0.3"],\
+            ["cross-spawn", "npm:7.0.6"],\
             ["eslint", "npm:8.13.0"],\
             ["eslint-config-airbnb", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:19.0.4"],\
             ["eslint-import-resolver-webpack", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.13.11"],\
