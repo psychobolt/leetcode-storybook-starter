@@ -76,7 +76,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["app-root-path", "npm:3.1.0"],\
             ["babel-loader", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:9.1.3"],\
             ["babel-plugin-macros", "npm:3.1.0"],\
-            ["babel-plugin-module-resolver", "npm:5.0.2"],\
+            ["babel-plugin-module-resolver", "npm:5.0.3"],\
             ["babel-plugin-named-exports-order", "npm:0.0.2"],\
             ["babel-plugin-polyfill-corejs3", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.10.4"],\
             ["concurrently", "npm:8.2.2"],\
@@ -13350,10 +13350,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["babel-plugin-module-resolver", [\
-        ["npm:5.0.2", {\
-          "packageLocation": "./.yarn/cache/babel-plugin-module-resolver-npm-5.0.2-1c0ea0d3cb-f1d198acbb.zip/node_modules/babel-plugin-module-resolver/",\
+        ["npm:5.0.3", {\
+          "packageLocation": "./.yarn/cache/babel-plugin-module-resolver-npm-5.0.3-e268d82a86-a03a614d8a.zip/node_modules/babel-plugin-module-resolver/",\
           "packageDependencies": [\
-            ["babel-plugin-module-resolver", "npm:5.0.2"],\
+            ["babel-plugin-module-resolver", "npm:5.0.3"],\
             ["find-babel-config", "npm:2.1.1"],\
             ["glob", "npm:9.3.5"],\
             ["pkg-up", "npm:3.1.0"],\
@@ -24218,7 +24218,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["app-root-path", "npm:3.1.0"],\
             ["babel-loader", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:9.1.3"],\
             ["babel-plugin-macros", "npm:3.1.0"],\
-            ["babel-plugin-module-resolver", "npm:5.0.2"],\
+            ["babel-plugin-module-resolver", "npm:5.0.3"],\
             ["babel-plugin-named-exports-order", "npm:0.0.2"],\
             ["babel-plugin-polyfill-corejs3", "virtual:e336a4f89c1b4cd7fb5ce870c8dbdce6169f37ba8f22d298c91014470c982def7dc4b4acd3d499b0d565c44cc3e603311ec0ad69c2cf4ba12aa63780aba1033c#npm:0.10.4"],\
             ["concurrently", "npm:8.2.2"],\
