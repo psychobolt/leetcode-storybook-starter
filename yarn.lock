@@ -13804,12 +13804,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"flow-bin@npm:0.176.2":
-  version: 0.176.2
-  resolution: "flow-bin@npm:0.176.2"
+"flow-bin@npm:0.318.0":
+  version: 0.318.0
+  resolution: "flow-bin@npm:0.318.0"
   bin:
     flow: cli.js
-  checksum: 3ae2348f2fa5b4fd65858acb1a8171ef293a0c300dab545234b52d4cd18bb1ec0046087b501e2866ab2bd5bcf4ad5482827f96ba981dc7eae1cf486aab872410
+  checksum: 4a35e9bf41c25c0c0c3d07419a662a7781c9613d41f6161e0d672ca238a01209a947f75ba3faae5eb19336f672802cdd4f92373b6edcc833e826a5ce579ff04b
   languageName: node
   linkType: hard
 
@@ -18397,7 +18397,7 @@ __metadata:
     eslint-plugin-react-hooks: 4.6.2
     eslint-plugin-storybook: 0.8.0
     execa: 8.0.1
-    flow-bin: 0.176.2
+    flow-bin: 0.318.0
     flow-typed: 3.9.0
     generator-leetcode-storybook: 0.0.12
     http-server: 14.1.1
