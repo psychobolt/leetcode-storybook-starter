@@ -10957,6 +10957,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"cross-spawn@npm:7.0.6":
+  version: 7.0.6
+  resolution: "cross-spawn@npm:7.0.6"
+  dependencies:
+    path-key: ^3.1.0
+    shebang-command: ^2.0.0
+    which: ^2.0.1
+  checksum: 8d306efacaf6f3f60e0224c287664093fa9185680b2d195852ba9a863f85d02dcc737094c6e512175f8ee0161f9b87c73c6826034c2422e39de7d6569cf4503b
+  languageName: node
+  linkType: hard
+
 "cross-spawn@npm:^6.0.0":
   version: 6.0.5
   resolution: "cross-spawn@npm:6.0.5"
@@ -18384,7 +18395,7 @@ __metadata:
     concurrently: 8.2.2
     core-js: 3.37.0
     cross-env: 7.0.3
-    cross-spawn: 7.0.3
+    cross-spawn: 7.0.6
     eslint: 8.13.0
     eslint-config-airbnb: 19.0.4
     eslint-import-resolver-webpack: 0.13.11
